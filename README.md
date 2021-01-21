@@ -3,6 +3,7 @@
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Poompong-b&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### :flags: About Me
@@ -25,6 +26,3 @@
 - [Facebook](https://www.facebook.com/leon.kanade/) 
 - [Twitter](https://twitter.com/PPhoompong) 
 - [Instagram](https://www.instagram.com/poomm.b/) 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Poompong-b&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
