@@ -15,4 +15,4 @@
 - [Twitter](https://twitter.com/PPhoompong) 
 - [Instagram](https://www.instagram.com/poomm.b/) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Poompong-b)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Poompong-b&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
