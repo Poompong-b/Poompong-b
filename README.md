@@ -1,6 +1,8 @@
 ### Hello There, My name is Poom <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+<p align='center'>
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Poompong-b&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+  </p>
 
 <p align='center'>
 <a href="https://dev.to/waylonwalker"><img height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png"></a>&nbsp;&nbsp;
@@ -10,3 +12,8 @@
 <a href="https://www.linkedin.com/in/waylonwalker/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 
+### 💼 Where i am currently working at/as
+
+### 💻 What i am currently/done working on
+
+### 📫 Where to find me
