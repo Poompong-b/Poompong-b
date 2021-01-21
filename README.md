@@ -7,10 +7,10 @@
 
 ### :flags: About Me
 - I like :camera: , It's keep memory alive.
-- I play sport such as :basketball: :8ball: :bicyclist: .
+- I play sport such as :basketball: :8ball: :bicyclist: 
 - Reading :books: is my hobby.
-- Interested in marketing :money_with_wings: .
-- I can also play :guitar: .
+- Interested in marketing :money_with_wings: 
+- I can also play :guitar: 
 - :headphones: :notes: is my friend.
 - I Fashion and Style Myself :tophat: :necktie: :jeans: :shoe:
 - Sometime i drink :beer:
