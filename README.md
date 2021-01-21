@@ -16,4 +16,4 @@
 - [Instagram](https://www.instagram.com/poomm.b/) 
 <br/>
 <br/>
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Poompong-b)](https://github.com/anuraghazra/github-readme-stats)
