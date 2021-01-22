@@ -7,7 +7,7 @@
 
 
 ### :flags: About Me
-- I like :camera: , It's keep memory alive.
+- I like :camera: , It's keep memories alive.
 - I play sport such as :basketball: :8ball: :bicyclist: 
 - Reading :books: is my hobby.
 - Interested in marketing :money_with_wings: 
