@@ -20,7 +20,7 @@
 - I'm Studying as a Computer Engineering Student @KMITL
 
 ### 💻 What i am currently/done working on
-- I'm working on Website Development & App Development
+- I'm working on Website Development & App Development (I should call it Learning)
 
 ### 📫 Where to find me
 - [Facebook](https://www.facebook.com/leon.kanade/) 
