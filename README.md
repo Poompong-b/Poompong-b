@@ -14,7 +14,6 @@
 - I can also play :guitar: 
 - :headphones: :notes: is my friend.
 - I Fashion and Style Myself :tophat: :necktie: :jeans: :shoe:
-- Sometime i drink :beer:
 
 ### 💼 Where i am currently working at/as
 - I'm Studying as a Computer Engineering Student @KMITL
