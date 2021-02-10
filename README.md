@@ -23,6 +23,6 @@
 - I'm working on Website Development & App Development (I should call it Learning)
 
 ### 📫 Where to find me
-- [Facebook](https://www.facebook.com/leon.kanade/) 
-- [Twitter](https://twitter.com/PPhoompong) 
-- [Instagram](https://www.instagram.com/poomm.b/) 
+- [Facebook](https://www.facebook.com/leon.kanade/) 📌
+- [Twitter](https://twitter.com/PPhoompong) 📌
+- [Instagram](https://www.instagram.com/poomm.b/) 📌
